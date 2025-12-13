@@ -1,2 +1,13 @@
-# ai-journey-2026
-Hands-on projects and learning in AI, NLP, and applied machine learning
+# AI Journey 2026
+
+Starting my preparation for advanced studies and industry-focused roles
+in Artificial Intelligence and Data Science.
+
+This repository will contain:
+
+- NLP projects
+- LLM engineering
+- OCR systems
+- Fraud detection
+- Explainable AI systems
+- AI automation projects
